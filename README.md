@@ -1,3 +1,34 @@
+<h3 align="center"> 
+  🚧 A VISUA HISTORY OF NOBEL PRIZE WINNERS 🚧
+</h3>
+
+---
+### *Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?*
+
+---
+#### ⚙️ ETAPAS / FUNCIONALIDADES:
+
+- [x] Criação de base de dados
+- [x] Conexão com base de dados em servidor (local e remoto)
+- [x] Implementação do código associado
+- [x] Testes da funcionalidades
+
+---
+#### 🔧 FERRAMENTAS / TECNOLOGIAS:
+
+- Visual Basic
+- .NET Framework
+- Forms 
+- SQL
+- SQL Server
+
+---
+##### At <a href="https://www.datacamp.com" target="_blank">DataCamp</a>.
+##### 📖 **Instructor**: Rasmus Bååth
+##### **Career Track**: Data Scientist with Python
+
+
+
 # **A Visual History of Nobel Prize Winners**
 
 ## *Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?*
