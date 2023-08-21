@@ -1,9 +1,9 @@
 <h3 align="center"> 
-  🚧 A VISUA HISTORY OF NOBEL PRIZE WINNERS 🚧
+  🚧 A VISUAL HISTORY OF NOBEL PRIZE WINNERS 🚧
 </h3>
 
 ---
-### *Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?*
+#### *Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?*
 
 ---
 #### ⚙️ ETAPAS / FUNCIONALIDADES:
