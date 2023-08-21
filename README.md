@@ -4,7 +4,7 @@
 
 ---
 #### 📢 ABOUT:
-Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?
+**Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?**
 
 ---
 #### ⚠️ PROJECT:
